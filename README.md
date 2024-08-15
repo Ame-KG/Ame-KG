@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ame-KG
 - 👀 I’m interested web development, ethical hacking, game developement amongst other things
-- 🌱 I’m currently learning javascript, html,css, bootstrap and python
+- 🌱 I’m currently studying Software Engineering
 - 💞️ I’m looking to collaborate on anything really
 - 📫 How to reach me, email: amekgomo@gmail.com
 
